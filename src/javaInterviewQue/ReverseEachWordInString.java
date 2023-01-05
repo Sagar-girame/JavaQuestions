@@ -23,6 +23,7 @@ public class ReverseEachWordInString {
 		}
 		System.out.println(rev);
 		
+		//using string builder class
 		String ab="java Selenuim utils";
 		String words[]=ab.split("\\s");      //split when space occurs
 		
